@@ -1,3 +1,3 @@
 ### About hicalu
-- master student @Osaka University
-- internship in Tokyo
+- Master student @Osaka University
+- Internship in Tokyo
