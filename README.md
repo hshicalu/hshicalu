@@ -6,4 +6,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hshicalu&show_icons=true&theme=dracula)
 
 ### SNS
-[Twitter](https://twitter.com/satohicalu) | [LinkedIn]()
+[Twitter](https://twitter.com/satohicalu) | [LinkedIn](https://www.linkedin.com/in/satohicalu)
