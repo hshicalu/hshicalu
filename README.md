@@ -1,7 +1,7 @@
 ### About hicalu
 - Master student @Osaka University
 - Internship in Tokyo
-- Like western style arts
+- Like Western-style painting
 
 ### GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hshicalu&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
