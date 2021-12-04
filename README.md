@@ -1,4 +1,4 @@
-### About hicalu
+### About Hikaru Sato
 - Master student @Osaka University
 - Internship in Tokyo
 - Like Western-style painting
