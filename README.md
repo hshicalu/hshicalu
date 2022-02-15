@@ -10,4 +10,4 @@
 [Twitter](https://twitter.com/satohicalu) | [LinkedIn](https://www.linkedin.com/in/satohicalu) | [Wantedly](https://www.wantedly.com/id/satohicalu)
 
 ### Blog
-[Qiita（About engineering）](https://qiita.com/hshicalu) | [note（About art）](https://note.com/satohicalu)
+[Qiita（About engineering）](https://qiita.com/hshicalu)
