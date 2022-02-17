@@ -1,7 +1,8 @@
 ### About Hikaru Sato
-- Master student @Osaka University
-- Internship in Tokyo
-- Machine Learning & Optimization
+- Software Engineer & Data Scientist.
+- Master student @ Osaka University.
+- Internship in Tokyo.
+- Machine Learning & Optimization.
 
 ### GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hshicalu&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
