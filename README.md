@@ -1,5 +1,5 @@
 ### About Hikaru Sato
-- Software Engineer & Data Scientist.
+- Software Engineer.
 - Master student @ Osaka University.
 - Internship in Tokyo.
 
