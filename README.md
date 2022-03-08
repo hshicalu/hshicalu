@@ -1,5 +1,4 @@
 ### About Hikaru Sato
-- Software Engineer.
 - Master student @ Osaka University.
 - Internship in Tokyo.
 
