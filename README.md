@@ -1,5 +1,5 @@
 ### About Hikaru Sato
-- Master student @ Osaka University.
+- Master degree @ Osaka University.
 - Internship in Tokyo.
 - Data Engineering.
 - Machine Learning & Optimization.
