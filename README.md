@@ -2,8 +2,7 @@
 - Master degree @ Osaka University.
 - Internship in Tokyo.
 - Data Engineering.
-- Machine Learning.
-- Mathematical Optimization.
+- Machine Learning & Mathematical Optimization.
 
 ### GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hshicalu&hide=jupyter%20notebook,Vim%20script)](https://github.com/anuraghazra/github-readme-stats)
