@@ -1,6 +1,6 @@
 ### About Hikaru Sato
 - Software Engineer in Tokyo.
-- Machine Learning, MLOps, Search
+- Machine Learning, MLOps, LLMOps, Search
 
 ### SNS
 [Twitter](https://twitter.com/hshicalu) | [LinkedIn](https://www.linkedin.com/in/hshicalu)
