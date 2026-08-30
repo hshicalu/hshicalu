@@ -6,4 +6,4 @@
 [LinkedIn](https://www.linkedin.com/in/hshicalu)
 
 ### Blog
-[Qiita](https://qiita.com/hshicalu)
+[note](https://note.com/hshicalu15)
