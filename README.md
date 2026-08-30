@@ -3,7 +3,7 @@
 - Machine Learning, MLOps, LLMOps, Search
 
 ### SNS
-[Twitter](https://twitter.com/hshicalu) | [LinkedIn](https://www.linkedin.com/in/hshicalu)
+[LinkedIn](https://www.linkedin.com/in/hshicalu)
 
 ### Blog
 [Qiita](https://qiita.com/hshicalu)
