@@ -6,4 +6,4 @@
 [LinkedIn](https://www.linkedin.com/in/hshicalu)
 
 ### Blog
-[note](https://note.com/hshicalu15)
+[note](https://note.com/hshicalu15) | [zenn](https://zenn.dev/hshicalu)
